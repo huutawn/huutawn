@@ -1,4 +1,4 @@
-# Hi, I'm [huutawn]
+# Hi, I'm huutawn
 > Backend Developer | Java • Python • Go • TypeScript
 
 I specialize in building high-performance, scalable, and secure backend systems. Passionate about clean code, software architecture, and optimizing data processing.
