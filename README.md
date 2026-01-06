@@ -13,7 +13,7 @@ I specialize in building high-performance, scalable, and secure backend systems.
 
 ### 🔭 Selected Projects
 
-* **[Project Name 1 (Java/Spring Boot)](https://github.com/huutawn/tam-sang)**: A microservices-based management system for chairty. Handles over 1000 concurrent requests/sec with 99.9% uptime.
+* **[Tam Sang (Java/Spring Boot)](https://github.com/huutawn/tam-sang)**: A microservices-based management system for chairty. Handles over 1000 concurrent requests/sec with 99.9% uptime.
 
 
 ### 📊 Github Activity
