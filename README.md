@@ -16,8 +16,7 @@ I specialize in building high-performance, scalable, and secure backend systems.
 * **[Tam Sang (Java/Spring Boot)](https://github.com/huutawn/tam-sang)**: A microservices-based management system for chairty. Handles over 1000 concurrent requests/sec with 99.9% uptime.
 
 
-### 📊 Github Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=huutawn&show_icons=true&theme=graywhite&hide_border=true&hide_title=true&count_private=true&include_all_commits=true)
+
 
 ---
 [LinkedIn](...) • [Email](huutankg2005@gmail.com)
