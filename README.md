@@ -1,22 +1,108 @@
-# Hi, I'm huutawn
-> Backend Developer | Java • Python • Go • TypeScript
+# Hi, I'm Huu Tawn 👋
 
-I specialize in building high-performance, scalable, and secure backend systems. Passionate about clean code, software architecture, and optimizing data processing.
+### Backend Engineer • Go • Java • Node.js
 
-### 🛠 Tech Stack
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+I build scalable backend systems with a strong focus on **distributed architecture, cloud infrastructure, performance, and maintainability**.
 
-### 🔭 Selected Projects
+My interests include:
 
-* **[Tam Sang (Java/Spring Boot)](https://github.com/huutawn/tam-sang)**: A microservices-based management system for chairty. Handles over 1000 concurrent requests/sec with 99.9% uptime.
-
-
-
+- High-performance backend services
+- Distributed systems & microservices
+- REST APIs & system design
+- Cloud-native applications
+- DevOps automation
+- Database optimization
 
 ---
-[LinkedIn](...) • [Email](huutankg2005@gmail.com)
+
+## 🚀 Featured Projects
+
+### ⚡ Opsi (Go)
+
+**Cloud-native infrastructure management platform**
+
+A backend platform written in Go that focuses on infrastructure provisioning, agent management, bootstrap workflows, cluster deployment, authentication, and cloud automation.
+
+**Highlights**
+
+- Distributed architecture
+- Bootstrap Worker
+- Agent communication
+- Secure authentication
+- Docker-based development
+- Cloud deployment
+- K3s automation
+- Infrastructure orchestration
+
+**Tech**
+
+`Go` • `Docker` • `PostgreSQL` • `K3s` • `REST API`
+
+➡️ https://github.com/huutawn/opsi
+
+---
+
+### ❤️ Tam Sang (Java)
+
+**Microservices-based charity management platform**
+
+A Spring Boot application designed using microservice architecture that manages charity activities, volunteers, donations, and organizational workflows.
+
+**Highlights**
+
+- Spring Boot Microservices
+- API Gateway
+- Authentication
+- Service communication
+- Database management
+- Clean architecture
+
+**Tech**
+
+`Java` • `Spring Boot` • `PostgreSQL` • `Docker`
+
+➡️ https://github.com/huutawn/tam-sang
+
+---
+
+## 💻 Tech Stack
+
+### Languages
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Backend
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📚 Currently Learning
+
+- Distributed Systems
+- Kubernetes & K3s
+- Cloud Infrastructure
+- System Design
+- Backend Performance Optimization
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/huutawn
+- LinkedIn: ...
+- Email: huutankg2005@gmail.com
