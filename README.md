@@ -2,29 +2,6 @@
 
 **Backend Engineer** focused on **Go, Java, and Node.js**, building scalable backend systems, distributed services, and cloud-native applications.
 
----
-
-## 🚀 Featured Projects
-
-### **Opsi**
-
-Cloud-native infrastructure management platform built with Go.
-
-> Infrastructure automation • Bootstrap workflows • Agent management • K3s • Docker • PostgreSQL
-
-🔗 https://github.com/huutawn/opsi
-
----
-
-### **Tam Sang**
-
-Microservices-based charity management platform built with Spring Boot.
-
-> Microservices • Authentication • REST APIs • PostgreSQL • Docker
-
-🔗 https://github.com/huutawn/tam-sang
-
----
 
 ## 🛠 Tech Stack
 
